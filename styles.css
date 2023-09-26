@@ -1,3 +1,7 @@
 body {
     background: local;
 }
+
+header{
+    background-color: red;
+}
